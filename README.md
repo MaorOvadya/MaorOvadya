@@ -20,6 +20,6 @@ Feel free to browse through my projects, view my code on GitHub, and see how I b
 
 I'm always open to new opportunities and collaborations. If you think my skills align with your company's needs or if you simply want to chat about web development, don't hesitate to reach out to me. I'd love to connect with you!
 
-📧 You can contact me via email at [maorovadya@icloud.com](mailto:maorovadya@icloud.com) or connect with me on [LinkedIn]([https://www.linkedin.com).
+📧 You can contact me via email at [maorovadya@icloud.com](mailto:maorovadya@icloud.com) or connect with me on [LinkedIn](https://www.linkedin.com).
 
 Thanks for stopping by, and I look forward to connecting with you!
