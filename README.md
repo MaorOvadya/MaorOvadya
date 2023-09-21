@@ -9,7 +9,7 @@
 - **JavaScript**: I have a strong command of JavaScript, enabling me to create powerful, client-side functionality.
 - **TypeScript**: I'm a fan of TypeScript for its added type safety and improved code quality.
 - **CSS**: Crafting beautiful and responsive user interfaces is one of my strong suits.
-- 
+
 ## Skills
 
 Here are some of the key skills that I bring to the table:
