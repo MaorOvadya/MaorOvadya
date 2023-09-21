@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hi there! I'm ## Maor Ovadya, a passionate web developer based in beautiful Vancouver, Canada. My journey into the world of web development has been an exciting one, and I'm thrilled to share some of my skills and projects with you.
+👋 Hi there! I'm <p color="red">Maor Ovadya</p>, a passionate web developer based in beautiful Vancouver, Canada. My journey into the world of web development has been an exciting one, and I'm thrilled to share some of my skills and projects with you.
 
 ### What I Bring to the Table
 
