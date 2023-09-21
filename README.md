@@ -9,6 +9,24 @@
 - **JavaScript**: I have a strong command of JavaScript, enabling me to create powerful, client-side functionality.
 - **TypeScript**: I'm a fan of TypeScript for its added type safety and improved code quality.
 - **CSS**: Crafting beautiful and responsive user interfaces is one of my strong suits.
+- 
+## Skills
+
+Here are some of the key skills that I bring to the table:
+
+- ![React](https://raw.githubusercontent.com/tandpfun/skill-icons/master/react.png) React
+- ![JavaScript](https://raw.githubusercontent.com/tandpfun/skill-icons/master/javascript.png) JavaScript
+- ![TypeScript](https://raw.githubusercontent.com/tandpfun/skill-icons/master/typescript.png) TypeScript
+- ![CSS](https://raw.githubusercontent.com/tandpfun/skill-icons/master/css.png) CSS
+- ![HTML](https://raw.githubusercontent.com/tandpfun/skill-icons/master/html.png) HTML
+- ![Node.js](https://raw.githubusercontent.com/tandpfun/skill-icons/master/nodejs.png) Node.js
+- ![Git](https://raw.githubusercontent.com/tandpfun/skill-icons/master/git.png) Git
+- ![GitHub](https://raw.githubusercontent.com/tandpfun/skill-icons/master/github.png) GitHub
+
+These are just a few of the skills I've acquired as a web developer. You can find more about my work and projects on my [portfolio website](https://main--maorovadya.netlify.app/).
+
+Feel free to connect with me if you're interested in collaborating or have any questions about my skills and projects.
+
 
 ### Explore My Work
 
