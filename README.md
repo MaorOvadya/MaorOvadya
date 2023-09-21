@@ -14,14 +14,7 @@
 
 Here are some of the key skills that I bring to the table:
 
-- ![React](https://raw.githubusercontent.com/tandpfun/skill-icons/master/react.png) React
-- ![JavaScript](https://raw.githubusercontent.com/tandpfun/skill-icons/master/javascript.png) JavaScript
-- ![TypeScript](https://raw.githubusercontent.com/tandpfun/skill-icons/master/typescript.png) TypeScript
-- ![CSS](https://raw.githubusercontent.com/tandpfun/skill-icons/master/css.png) CSS
-- ![HTML](https://raw.githubusercontent.com/tandpfun/skill-icons/master/html.png) HTML
-- ![Node.js](https://raw.githubusercontent.com/tandpfun/skill-icons/master/nodejs.png) Node.js
-- ![Git](https://raw.githubusercontent.com/tandpfun/skill-icons/master/git.png) Git
-- ![GitHub](https://raw.githubusercontent.com/tandpfun/skill-icons/master/github.png) GitHub
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 These are just a few of the skills I've acquired as a web developer. You can find more about my work and projects on my [portfolio website](https://main--maorovadya.netlify.app/).
 
