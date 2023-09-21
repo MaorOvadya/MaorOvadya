@@ -14,7 +14,7 @@
 
 Here are some of the key skills that I bring to the table:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,linkedin,discord,visualstudio,github,git,figma,vite,react,vue,angular,&perline=3)](https://skillicons.dev)
 
 These are just a few of the skills I've acquired as a web developer. You can find more about my work and projects on my [portfolio website](https://main--maorovadya.netlify.app/).
 
