@@ -23,5 +23,3 @@ I'm always open to new opportunities and collaborations. If you think my skills 
 📧 You can contact me via email at [maorovadya@icloud.com](mailto:maorovadya@icloud.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/maor-ovadya-72b011240/).
 
 Thanks for stopping by, and I look forward to connecting with you!
-
-https://www.linkedin.com/in/maor-ovadya-72b011240/
